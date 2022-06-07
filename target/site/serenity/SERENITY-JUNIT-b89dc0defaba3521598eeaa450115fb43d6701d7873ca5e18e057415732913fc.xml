@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?><testsuite errors="0" failures="1" name="in.co.gorest.userinfo.UserInfoCRUDTest" skipped="0" tests="4" time="5.27" timestamp="2022-06-07T18:08:41.139+01:00[Europe/London]"><testcase classname="in.co.gorest.userinfo.UserInfoCRUDTest" name="Getting All The List Of Users"/><testcase classname="in.co.gorest.userinfo.UserInfoCRUDTest" name="Creating A New User"/><testcase classname="in.co.gorest.userinfo.UserInfoCRUDTest" name="Updating The List Of Users"><failure message="1 expectation failed.&#10;Expected status code &lt;200&gt; but was &lt;422&gt;.&#10;" type="java.lang.AssertionError">1 expectation failed.
+Expected status code &lt;200&gt; but was &lt;422&gt;.
+</failure><system-err>1 expectation failed.
+Expected status code &lt;200&gt; but was &lt;422&gt;.
+&#13;
+io.restassured.internal.ResponseSpecificationImpl.validateResponseIfRequired(ResponseSpecificationImpl.groovy:636)&#13;
+io.restassured.internal.ResponseSpecificationImpl.statusCode(ResponseSpecificationImpl.groovy:122)&#13;
+io.restassured.internal.ResponseSpecificationImpl.statusCode(ResponseSpecificationImpl.groovy:130)&#13;
+io.restassured.internal.ValidatableResponseOptionsImpl.statusCode(ValidatableResponseOptionsImpl.java:117)&#13;
+in.co.gorest.userinfo.UserInfoCRUDTest.test003(UserInfoCRUDTest.java:44)&#13;
+</system-err></testcase><testcase classname="in.co.gorest.userinfo.UserInfoCRUDTest" name="Deleting The  User"/></testsuite>

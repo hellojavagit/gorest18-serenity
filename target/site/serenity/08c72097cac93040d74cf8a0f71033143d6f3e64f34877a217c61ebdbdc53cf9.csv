@@ -1,0 +1,4 @@
+"Story","Title","Result","Date","Stability","Duration (s)"
+"User info CRUD test","Getting All The List Of Users","SUCCESS","2022-06-07T18:08:41.139+01:00[Europe/London]","0.0","2.53"
+"User info CRUD test","Creating A New User","SUCCESS","2022-06-07T18:08:43.679+01:00[Europe/London]","0.0","1.02"
+"User info CRUD test","Deleting The  User","SUCCESS","2022-06-07T18:08:45.595+01:00[Europe/London]","0.0","0.82"
